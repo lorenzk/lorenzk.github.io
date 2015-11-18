@@ -64,6 +64,7 @@ html {
 body {
   height: 100%;
   background-color: #ffffff;
+  /* photo by https://unsplash.com/benjaminslothlindgreen */
   background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(0, 139, 139, 0.5) 5%, rgba(255, 140, 0, 0.35)), url("../../images/bg.jpg");
   background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(0, 139, 139, 0.5) 5%, rgba(255, 140, 0, 0.35)), url("../../images/bg.jpg");
   background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(0, 139, 139, 0.5) 5%, rgba(255, 140, 0, 0.35)), url("../../images/bg.jpg");
