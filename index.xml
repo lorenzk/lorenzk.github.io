@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorenz Kitzmann</title>
+    <link>http://www.lorenzkitzmann.com/</link>
+    <description>Recent content on Lorenz Kitzmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2015 13:32:59 +0100</lastBuildDate>
+    <atom:link href="http://www.lorenzkitzmann.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Imprint</title>
+      <link>http://www.lorenzkitzmann.com/imprint/</link>
+      <pubDate>Thu, 19 Nov 2015 13:32:59 +0100</pubDate>
+      
+      <guid>http://www.lorenzkitzmann.com/imprint/</guid>
+      <description>&lt;p&gt;Lorenz Kitzmann&lt;br /&gt;
+IT Berater&lt;br /&gt;
+Dipl.-Wirt.-Inf. (FH)&lt;/p&gt;
+
+&lt;p&gt;Wesselyring 12&lt;br /&gt;
+22297 Hamburg&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
