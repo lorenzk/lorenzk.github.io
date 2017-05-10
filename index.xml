@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenz Kitzmann</title>
-    <link>http://www.lorenzkitzmann.com/index.xml</link>
+    <link>http://www.lorenzkitzmann.com/</link>
     <description>Recent content on Lorenz Kitzmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Nov 2015 13:32:59 +0100</lastBuildDate>
-    <atom:link href="http://www.lorenzkitzmann.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.lorenzkitzmann.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Imprint</title>
@@ -15,18 +17,13 @@
       <pubDate>Thu, 19 Nov 2015 13:32:59 +0100</pubDate>
       
       <guid>http://www.lorenzkitzmann.com/imprint/</guid>
-      <description>&lt;p&gt;Lorenz Kitzmann&lt;br /&gt;
-&lt;!-- IT Berater   --&gt;
-Dipl.-Wirt.-Inf. (FH)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#39;mailto&amp;#58;%6C&amp;#37;6F%72e&amp;#110;z%40lo&amp;#37;72en%7Akit%&amp;#55;Amann&amp;#46;%63&amp;#111;%6D&#39;&gt;lorenz&amp;#64;lor&amp;#101;nzkitzman&amp;#110;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Wesselyring 12&lt;br /&gt;
-22297 Hamburg&lt;br /&gt;
-Germany&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.lorenzkitzmann.com/images/DE.png&#34; alt=&#34;German Flag&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Lorenz Kitzmann
+IT Berater
+Dipl.-Wirt.-Inf. (FH)
+lorenz&amp;#64;lor&amp;#101;nzkitzman&amp;#110;&amp;#46;&amp;#99;&amp;#111;&amp;#109;
+Wesselyring 12
+22297 Hamburg
+Germany</description>
     </item>
     
   </channel>
